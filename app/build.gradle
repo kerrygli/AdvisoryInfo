@@ -28,5 +28,16 @@ dependencies {
     testCompile 'junit:junit:4.12'
     //KLog
     compile 'com.github.zhaokaiqiang.klog:library:1.4.0'
+    //android5.0的材料风格
+    compile 'com.android.support:design:25.1.0'
+    //RxJava的使用
+    compile 'io.reactivex:rxandroid:1.2.1'
+    compile 'io.reactivex:rxjava:1.2.1'
+    //butterKnife
+    compile 'com.jakewharton:butterknife:8.4.0'
+    //6.0权限申请
+    compile 'pub.devrel:easypermissions:0.3.0'
+ 
+
 
 }
